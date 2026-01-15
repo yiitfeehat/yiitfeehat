@@ -13,7 +13,7 @@
   <a href="mailto:yiitferhat@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://yiitfeehat.dev">
+  <a href="https://yiitfeehat.github.io/Portfolio---Ferhat-Yigit/">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=google-chrome&logoColor=61DAFB" alt="Web"/>
   </a>
 
@@ -23,9 +23,9 @@
 
 ### 👨‍💻 Hakkımda
 
-- 🔭 Şu anda **Pizza Sipariş Sistemi Backend API** üzerinde çalışıyorum.
-- 🌱 Hedefim ve öğrendiklerim: `NestJS`, `TypeScript`, `Redis`, `GraphQL`
-- 💬 Yetkinliklerim: `Node.js`, `Express`, `MongoDB`, `React`
+- 🔭 Şu anda **[Stock App](https://github.com/yiitfeehat/FS-StockApp)** projesi üzerinde çalışıyorum.
+- 🌱 Hedefim ve öğrendiklerim: `Spring Boot`, `Docker`, `Microservices`, `System Design`
+- 💬 Yetkinliklerim: `Node.js`, `Express`, `MongoDB`, `React`, `Java`
 - ⚡ **Eğlenceli Bilgi:**
 > "Maalesef yazılımda eğlenceli bilgi diye bir şey yok. Hepsi sıkıcı. Tek motivasyonuysa hiçbir şeyin olamadığı kadar mantıklı olması."
 
@@ -37,23 +37,25 @@
 <br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 
 **Frontend**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 **DevOps & Tools**
 <br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 ---
 
@@ -61,9 +63,9 @@
 
 | Proje Adı | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
-| **[🍕 Pizza API](https://github.com/yiitfeehat/pizza-api)** | Gelişmiş sipariş ve stok yönetimi backend servisi. | `Node.js` `Express` |
-| **[🧠 Notlarım](https://github.com/yiitfeehat/notlarim)** | Kişisel not alma ve organize etme uygulaması. | `React` `Firebase` |
-| **[🔒 JWT Auth](https://github.com/yiitfeehat/jwt-auth-system)** | Güvenli kimlik doğrulama ve yetkilendirme sistemi. | `JWT` `Bcrypt` |
+| **[📈 Stock App](https://github.com/yiitfeehat/FS-StockApp)** | Kapsamlı stok takip, raporlama ve yönetim uygulaması. | `MERN Stack` `Redux` |
+| **[🚗 Rent A Car API](https://github.com/yiitfeehat/RentACarAPI_V1)** | Araç kiralama süreçleri için geliştirilmiş kurumsal RESTful API. | `Java` `Spring Boot` |
+| **[🛒 Amazon Shopping](https://github.com/yiitfeehat/Amazon-Shopping)** | Amazon arayüzünün modern tasarım prensipleriyle hazırlanmış klonu. | `HTML` `CSS` `JS` |
 
 ---
 
