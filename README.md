@@ -10,7 +10,7 @@
   <a href="mailto:yiitferhat@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="ferhat-portfolio-lake.vercel.app/">
+  <a href="https://yiitfeehat.github.io/Portfolio---Ferhat-Yigit/">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=google-chrome&logoColor=61DAFB" alt="Web"/>
   </a>
 
@@ -62,8 +62,13 @@
 | :--- | :--- | :--- |
 | **[📈 Stock App](https://github.com/yiitfeehat/FS-StockApp)** | Kapsamlı stok takip, raporlama ve yönetim uygulaması. | `MERN Stack` `Redux` |
 | **[🍕 Pizza API](https://github.com/yiitfeehat/PizzaAPI_V1)** | Online yemek siparişi ve yönetim backend servisi. | `Node.js` `Express` |
-| **[🛒 Amazon Shopping](https://github.com/yiitfeehat/Amazon-Shopping)** | Amazon arayüzünün modern tasarım prensipleriyle hazırlanmış klonu. | `HTML` `CSS` `JS` |
+| **[� Rent A Car API](https://github.com/yiitfeehat/RentACarAPI_V1)** | Araç kiralama süreçleri için geliştirilmiş kurumsal RESTful API. | `Java` `Spring Boot` |
+| **[�🛒 Amazon Shopping](https://github.com/yiitfeehat/Amazon-Shopping)** | Amazon arayüzünün modern tasarım prensipleriyle hazırlanmış klonu. | `HTML` `CSS` `JS` |
+| **[🔢 Guess The Number](https://github.com/yiitfeehat/guessthenumber)** | Klasik sayı tahmin oyununun interaktif web versiyonu. | `JavaScript` `DOM` |
 | **[✂️ Rock Paper Scissors](https://github.com/yiitfeehat/RockPaperScissorsV2.0)** | İnteraktif ve skor takipli klasik Taş-Kağıt-Makas oyunu. | `JavaScript` `DOM` |
+| **[☕ Coffee Page](https://github.com/yiitfeehat/coffeepage)** | Bir kahve dükkanı için şık ve davetkar tasarımlı açılış sayfası. | `HTML` `CSS` |
+| **[🎨 Car A Man](https://github.com/yiitfeehat/car-a-man)** | Sadece CSS kullanılarak yapılmış yaratıcı araç animasyon çalışması. | `CSS` `Animation` |
+| **[📚 Sabahattin Ali](https://github.com/yiitfeehat/Sabahattin-Ally)** | Ünlü yazar için minimalist biyografi ve eser tanıtım sitesi. | `HTML` `CSS` |
 
 ---
 
