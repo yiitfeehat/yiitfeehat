@@ -7,9 +7,6 @@
   <a href="https://linkedin.com/in/yiitferhat">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yiitfeehat">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="mailto:yiitferhat@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -24,8 +21,8 @@
 ### 👨‍💻 Hakkımda
 
 - 🔭 Şu anda **[Stock App](https://github.com/yiitfeehat/FS-StockApp)** projesi üzerinde çalışıyorum.
-- 🌱 Hedefim ve öğrendiklerim: `Spring Boot`, `Docker`, `Microservices`, `System Design`
-- 💬 Yetkinliklerim: `Node.js`, `Express`, `MongoDB`, `React`, `Java`
+- 🌱 Hedefim ve öğrendiklerim: `NestJS`, `TypeScript`, `System Design`, `Microservices`
+- 💬 Yetkinliklerim: `Node.js`, `Express`, `MongoDB`, `React`, `Redux`
 - ⚡ **Eğlenceli Bilgi:**
 > "Maalesef yazılımda eğlenceli bilgi diye bir şey yok. Hepsi sıkıcı. Tek motivasyonuysa hiçbir şeyin olamadığı kadar mantıklı olması."
 
@@ -37,15 +34,15 @@
 <br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 **Frontend**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -64,8 +61,9 @@
 | Proje Adı | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
 | **[📈 Stock App](https://github.com/yiitfeehat/FS-StockApp)** | Kapsamlı stok takip, raporlama ve yönetim uygulaması. | `MERN Stack` `Redux` |
-| **[🚗 Rent A Car API](https://github.com/yiitfeehat/RentACarAPI_V1)** | Araç kiralama süreçleri için geliştirilmiş kurumsal RESTful API. | `Java` `Spring Boot` |
+| **[🍕 Pizza API](https://github.com/yiitfeehat/PizzaAPI_V1)** | Online yemek siparişi ve yönetim backend servisi. | `Node.js` `Express` |
 | **[🛒 Amazon Shopping](https://github.com/yiitfeehat/Amazon-Shopping)** | Amazon arayüzünün modern tasarım prensipleriyle hazırlanmış klonu. | `HTML` `CSS` `JS` |
+| **[✂️ Rock Paper Scissors](https://github.com/yiitfeehat/RockPaperScissorsV2.0)** | İnteraktif ve skor takipli klasik Taş-Kağıt-Makas oyunu. | `JavaScript` `DOM` |
 
 ---
 
