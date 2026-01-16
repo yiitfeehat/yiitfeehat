@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 
 **Frontend**
 <br>
@@ -61,9 +62,10 @@
 | Proje Adı | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
 | **[📈 Stock App](https://github.com/yiitfeehat/FS-StockApp)** | Kapsamlı stok takip, raporlama ve yönetim uygulaması. | `MERN Stack` `Redux` |
+| **[🚀 Backend Recap API](https://github.com/yiitfeehat/BackendRecap-V1)** | Güvenli ve kapsamlı RESTful API (Auth, Security, Validation). | `Node.js` `Express` |
 | **[🍕 Pizza API](https://github.com/yiitfeehat/PizzaAPI_V1)** | Online yemek siparişi ve yönetim backend servisi. | `Node.js` `Express` |
-| **[� Rent A Car API](https://github.com/yiitfeehat/RentACarAPI_V1)** | Araç kiralama süreçleri için geliştirilmiş kurumsal RESTful API. | `Java` `Spring Boot` |
-| **[�🛒 Amazon Shopping](https://github.com/yiitfeehat/Amazon-Shopping)** | Amazon arayüzünün modern tasarım prensipleriyle hazırlanmış klonu. | `HTML` `CSS` `JS` |
+| **[🚗 Rent A Car API](https://github.com/yiitfeehat/RentACarAPI_V1)** | Gerçek araç kiralama süreçleri yönetimi için kurumsal API. | `Java` `Spring Boot` |
+| **[🛒 Amazon Shopping](https://github.com/yiitfeehat/Amazon-Shopping)** | Amazon arayüzünün modern tasarım prensipleriyle hazırlanmış klonu. | `HTML` `CSS` `JS` |
 | **[🔢 Guess The Number](https://github.com/yiitfeehat/guessthenumber)** | Klasik sayı tahmin oyununun interaktif web versiyonu. | `JavaScript` `DOM` |
 | **[✂️ Rock Paper Scissors](https://github.com/yiitfeehat/RockPaperScissorsV2.0)** | İnteraktif ve skor takipli klasik Taş-Kağıt-Makas oyunu. | `JavaScript` `DOM` |
 | **[☕ Coffee Page](https://github.com/yiitfeehat/coffeepage)** | Bir kahve dükkanı için şık ve davetkar tasarımlı açılış sayfası. | `HTML` `CSS` |
