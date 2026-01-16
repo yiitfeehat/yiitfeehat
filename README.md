@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Hakkımda
 
-- 🔭 Şu anda **[Stock App](https://github.com/yiitfeehat/FS-StockApp)** projesi üzerinde çalışıyorum.
+- 🔭 Şu anda **[🚀 Backend Recap API](https://github.com/yiitfeehat/BackendRecap-V1)** projesi üzerinde çalışıyorum.
 - 🌱 Hedefim ve öğrendiklerim: `NestJS`, `TypeScript`, `System Design`, `Microservices`
 - 💬 Yetkinliklerim: `Node.js`, `Express`, `MongoDB`, `React`, `Redux`
 - ⚡ **Eğlenceli Bilgi:**
